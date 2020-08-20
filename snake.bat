@@ -471,7 +471,7 @@ echo Main Menu:
 echo(
 echo   N - New game
 echo   F - Field size..... !size!
-echo   W - groWth rate.... !growth!
+echo   W - growth rate.... !growth!
 echo   C - Control options
 echo   G - Graphic options
 
